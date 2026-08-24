@@ -1,0 +1,13 @@
+{
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "attachmentFolderPath": ".//attach",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "/attach",
+    "attach",
+    "/attach"
+  ]
+}
