@@ -4,8 +4,6 @@
 # 1. .obsidian 폴더 안의 모든 항목을 기본적으로 제외
 .obsidian/*
 
-!.obsidian/plugins
-!.obsidian/themes
 
 # 2. 중요 설정 파일들은 추적 대상에 포함 (예외 처리)
 !.obsidian/app.json
