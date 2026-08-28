@@ -1,0 +1,281 @@
+{
+  "version": 16,
+  "providers": [
+    {
+      "type": "anthropic-plan",
+      "id": "anthropic-plan",
+      "oauth": {
+        "accessToken": "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",
+        "refreshToken": "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",
+        "expiresAt": 1787259446812
+      }
+    },
+    {
+      "type": "openai-plan",
+      "id": "openai-plan"
+    },
+    {
+      "type": "gemini-plan",
+      "id": "gemini-plan",
+      "oauth": {
+        "accessToken": "ya29.a0AdMD6EhOkClRGGotCrCfJrfGvvWMVaNgoQKh679JNcjTd6_B9p4MoVRc2-vz0dD1izzuCU73aYVpd89Z911wo-K29NHNFa18j-6qbmvKkf27pA1flfaYndnfjIG8Y6o1IOfMvAflgnuWIc4KLj7A-l-sSfthhMGC2I-g2vaYhtMhNnrFqqx4onWqg1ohz-3yZ9qjT3iyL9WmJAaCgYKAYgSARYSFQHGX2Mid3N5bkgGg7kFebMFN6QTrw0213",
+        "refreshToken": "1//0ezM2sRI2KJY_CgYIARAAGA4SNwF-L9IrtuSdCBCkJVZq5z2rxPXc5MLDCjWLssEjS3vLqOhuiF90edeQ9xmcK-rxKSSQNt04NUc",
+        "expiresAt": 1787234408496,
+        "email": "ojpfight@gmail.com"
+      }
+    },
+    {
+      "type": "anthropic",
+      "id": "anthropic"
+    },
+    {
+      "type": "openai",
+      "id": "openai"
+    },
+    {
+      "type": "gemini",
+      "id": "gemini",
+      "apiKey": "AQ.Ab8RN6KSrMEa2IoxEeW5LdkMnHATMWpkVdkW4ceupYJ_NdJtbQ"
+    },
+    {
+      "type": "xai",
+      "id": "xai"
+    },
+    {
+      "type": "deepseek",
+      "id": "deepseek"
+    },
+    {
+      "type": "mistral",
+      "id": "mistral"
+    },
+    {
+      "type": "perplexity",
+      "id": "perplexity"
+    },
+    {
+      "type": "openrouter",
+      "id": "openrouter"
+    },
+    {
+      "type": "ollama",
+      "id": "ollama",
+      "baseUrl": "http://localhost:11434",
+      "apiKey": "ollama"
+    },
+    {
+      "type": "lm-studio",
+      "id": "lm-studio"
+    }
+  ],
+  "chatModels": [
+    {
+      "providerType": "anthropic-plan",
+      "providerId": "anthropic-plan",
+      "id": "claude-opus-4.5 (plan)",
+      "model": "claude-opus-4-5",
+      "thinking": {
+        "enabled": true,
+        "budget_tokens": 8192
+      }
+    },
+    {
+      "providerType": "anthropic-plan",
+      "providerId": "anthropic-plan",
+      "id": "claude-sonnet-4.5 (plan)",
+      "model": "claude-sonnet-4-5",
+      "thinking": {
+        "enabled": true,
+        "budget_tokens": 8192
+      }
+    },
+    {
+      "providerType": "openai-plan",
+      "providerId": "openai-plan",
+      "id": "gpt-5.2 (plan)",
+      "model": "gpt-5.2"
+    },
+    {
+      "providerType": "gemini-plan",
+      "providerId": "gemini-plan",
+      "id": "gemini-3-pro-preview (plan)",
+      "model": "gemini-3-pro-preview"
+    },
+    {
+      "providerType": "gemini-plan",
+      "providerId": "gemini-plan",
+      "id": "gemini-3-flash-preview (plan)",
+      "model": "gemini-3-flash-preview"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-opus-4.5",
+      "model": "claude-opus-4-5"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-sonnet-4.5",
+      "model": "claude-sonnet-4-5"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-haiku-4.5",
+      "model": "claude-haiku-4-5"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-5.2",
+      "model": "gpt-5.2"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-5-mini",
+      "model": "gpt-5-mini"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-4.1-mini",
+      "model": "gpt-4.1-mini"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "o4-mini",
+      "model": "o4-mini",
+      "reasoning": {
+        "enabled": true,
+        "reasoning_effort": "medium"
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-3-pro-preview",
+      "model": "gemini-3-pro-preview"
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-3-flash-preview",
+      "model": "gemini-3-flash-preview"
+    },
+    {
+      "providerType": "deepseek",
+      "providerId": "deepseek",
+      "id": "deepseek-chat",
+      "model": "deepseek-chat"
+    },
+    {
+      "providerType": "deepseek",
+      "providerId": "deepseek",
+      "id": "deepseek-reasoner",
+      "model": "deepseek-reasoner"
+    },
+    {
+      "providerType": "xai",
+      "providerId": "xai",
+      "id": "grok-4-1-fast",
+      "model": "grok-4-1-fast"
+    },
+    {
+      "providerType": "xai",
+      "providerId": "xai",
+      "id": "grok-4-1-fast-non-reasoning",
+      "model": "grok-4-1-fast-non-reasoning"
+    },
+    {
+      "providerType": "ollama",
+      "providerId": "ollama",
+      "id": "gemma4:12b",
+      "model": "gemma4:12b",
+      "promptLevel": 1,
+      "enable": true
+    },
+    {
+      "providerType": "ollama",
+      "providerId": "ollama",
+      "id": "gemma4:26b",
+      "model": "gemma4:26b",
+      "promptLevel": 1,
+      "enable": true
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "Gemini 3.6 Flash",
+      "model": "Gemini 3.6 Flash",
+      "promptLevel": 1,
+      "enable": true
+    }
+  ],
+  "embeddingModels": [
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/text-embedding-3-small",
+      "model": "text-embedding-3-small",
+      "dimension": 1536
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/text-embedding-3-large",
+      "model": "text-embedding-3-large",
+      "dimension": 3072
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini/text-embedding-004",
+      "model": "text-embedding-004",
+      "dimension": 768
+    },
+    {
+      "providerType": "ollama",
+      "providerId": "ollama",
+      "id": "ollama/nomic-embed-text",
+      "model": "nomic-embed-text",
+      "dimension": 768
+    },
+    {
+      "providerType": "ollama",
+      "providerId": "ollama",
+      "id": "ollama/mxbai-embed-large",
+      "model": "mxbai-embed-large",
+      "dimension": 1024
+    },
+    {
+      "providerType": "ollama",
+      "providerId": "ollama",
+      "id": "ollama/bge-m3",
+      "model": "bge-m3",
+      "dimension": 1024
+    }
+  ],
+  "chatModelId": "claude-sonnet-4.5 (plan)",
+  "applyModelId": "gemini-3-pro-preview (plan)",
+  "embeddingModelId": "openai/text-embedding-3-small",
+  "systemPrompt": "",
+  "ragOptions": {
+    "chunkSize": 1000,
+    "thresholdTokens": 8192,
+    "minSimilarity": 0,
+    "limit": 10,
+    "excludePatterns": [],
+    "includePatterns": []
+  },
+  "mcp": {
+    "servers": []
+  },
+  "chatOptions": {
+    "includeCurrentFileContent": true,
+    "enableTools": true,
+    "maxAutoIterations": 1
+  }
+}
