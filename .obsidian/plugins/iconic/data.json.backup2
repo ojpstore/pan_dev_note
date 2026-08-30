@@ -291,10 +291,16 @@
     "02.Sales Management/02.BL Report": {
       "color": "blue"
     },
+    "02.Sales Management/03.EDI": {
+      "color": "blue"
+    },
     "02.Sales Management/03.EDI/01.통합적하목록전송.md": {
       "color": "green"
     },
     "02.Sales Management/03.EDI/02.통합적하목록전송 - BL팝업.md": {
+      "color": "green"
+    },
+    "02.Sales Management/03.EDI/03.통합적하목록전송 - 출력 OPTION 팝업.md": {
       "color": "green"
     },
     "02.Sales Management/무제.md": {
