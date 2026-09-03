@@ -441,6 +441,12 @@
     "03.Operation && Settlement/01.Port Charge && Cargo Expense/02.Material Cost Management/03.Trade Material Report (Use).md": {
       "color": "green"
     },
+    "03.Operation && Settlement/01.Port Charge && Cargo Expense/02.Material Cost Management/04.Purchase Material Report (Use).md": {
+      "color": "green"
+    },
+    "03.Operation && Settlement/01.Port Charge && Cargo Expense/02.Material Cost Management/05.Total Material Report (Use).md": {
+      "color": "green"
+    },
     "97.칸반보드": {
       "icon": "lucide-folder-open",
       "color": "gray"
