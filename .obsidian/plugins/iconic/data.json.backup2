@@ -315,6 +315,9 @@
     "02.Sales Management/03.EDI/04.선원인명부 Excel Upload.md": {
       "color": "green"
     },
+    "02.Sales Management/04.Freight Settlement/01.WFGWithholdingRegisterDetailPopupForm.md": {
+      "color": "green"
+    },
     "02.회사노트": {
       "icon": "lucide-library-big",
       "color": "blue"
