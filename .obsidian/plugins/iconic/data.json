@@ -476,18 +476,12 @@
       "icon": "lucide-folder-open",
       "color": "gray"
     },
+    "98.기타": {
+      "color": "blue"
+    },
     "99.Excalidraw": {
       "icon": "lucide-folder-open",
       "color": "gray"
-    },
-    "99.기타": {
-      "color": "blue"
-    },
-    "99.기타/01.전환 가이드.md": {
-      "color": "green"
-    },
-    "99.기타/02.AS-IS 설치.md": {
-      "color": "green"
     },
     "99.기타/프롬프트": {
       "color": "blue"
@@ -495,6 +489,12 @@
     "🏠 DashBoard.md": {
       "icon": "lucide-layout-dashboard",
       "color": "orange"
+    },
+    "98.기타/01.전환 가이드.md": {
+      "color": "green"
+    },
+    "98.기타/02.AS-IS 설치.md": {
+      "color": "green"
     }
   },
   "bookmarkIcons": {},
