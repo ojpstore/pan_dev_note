@@ -3,12 +3,7 @@
   "providers": [
     {
       "type": "anthropic-plan",
-      "id": "anthropic-plan",
-      "oauth": {
-        "accessToken": "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",
-        "refreshToken": "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",
-        "expiresAt": 1787259446812
-      }
+      "id": "anthropic-plan"
     },
     {
       "type": "openai-plan",
@@ -258,7 +253,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "claude-sonnet-4.5 (plan)",
+  "chatModelId": "gemini-3-pro-preview (plan)",
   "applyModelId": "gemini-3-pro-preview (plan)",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
