@@ -32,6 +32,9 @@
     "01.Sales": {
       "color": "blue"
     },
+    "01.Sales/Charter Base Main/01. Charter Base List.md": {
+      "color": "red"
+    },
     "01.개인노트": {
       "color": "red",
       "icon": "lucide-library-big"
