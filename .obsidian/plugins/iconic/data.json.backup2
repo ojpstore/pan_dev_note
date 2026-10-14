@@ -465,6 +465,15 @@
     "03.Operation && Settlement/01.Port Charge && Cargo Expense/02.Material Cost Management/06.Sling Price Report.md": {
       "color": "green"
     },
+    "97.기타": {
+      "color": "blue"
+    },
+    "97.기타/01.전환 가이드.md": {
+      "color": "green"
+    },
+    "97.기타/02.AS-IS 설치.md": {
+      "color": "green"
+    },
     "97.칸반보드": {
       "icon": "lucide-folder-open",
       "color": "gray"
@@ -475,15 +484,6 @@
     "98.Clippings": {
       "icon": "lucide-folder-open",
       "color": "gray"
-    },
-    "98.기타": {
-      "color": "blue"
-    },
-    "98.기타/01.전환 가이드.md": {
-      "color": "green"
-    },
-    "98.기타/02.AS-IS 설치.md": {
-      "color": "green"
     },
     "99.Excalidraw": {
       "icon": "lucide-folder-open",
